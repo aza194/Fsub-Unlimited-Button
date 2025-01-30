@@ -1,6 +1,6 @@
-# Credits: @mrismanaziz
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Credits: @onlyazza
+# FROM File-Sharing-Man <https://github.com/aza12/File-Sharing-Man/>
+# t.me/SharingUserbot & @chellsupport
 
 from config import FORCE_SUB, BUTTONS_PER_ROW, BUTTONS_JOIN_TEXT
 from pyrogram.types import InlineKeyboardButton
